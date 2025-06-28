@@ -20,5 +20,3 @@ It is necessary to realize the following functionality:
 2. Realize the process of *FOLDING in an arbitrary number system (show hyphenation)
 3. Realize the process of **CALCULATION in an arbitrary number system (show borrowings). The first number is always greater than the second number.
 4. Realize the process of **MULTIPLE in arbitrary number systems
-
-Translated with DeepL.com (free version)
