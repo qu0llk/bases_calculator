@@ -14,3 +14,11 @@ The task:
 4. Реализовать процесс *УМНОЖЕНИЯ в произвольных системах счисления
 
 The translation:
+You need to develop a teaching-explanatory complex of programs, explaining at the level of “fifth-grader” how the process of calculations on the topic “number systems”.
+It is necessary to realize the following functionality:
+1. Conversion of integers from any number system to any other number system (the range of number systems from 2 to 50, as an alphabet you can choose any symbols).
+2. Realize the process of *FOLDING in an arbitrary number system (show hyphenation)
+3. Realize the process of **CALCULATION in an arbitrary number system (show borrowings). The first number is always greater than the second number.
+4. Realize the process of **MULTIPLE in arbitrary number systems
+
+Translated with DeepL.com (free version)
